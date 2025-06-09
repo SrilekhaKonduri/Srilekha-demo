@@ -1,4 +1,4 @@
-# Srilekha-demo
+demo
 This is my first Git repository.
-Author-Sweety
+Author-Srilekha
 
